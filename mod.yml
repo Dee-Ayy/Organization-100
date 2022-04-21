@@ -1,0 +1,114 @@
+title: Organization 100
+description: Replaces Xemnas, Xigbar, Xaldin, Saïx, Axel, Demyx, and Luxord
+assets:
+#Axel
+- name: obj/B_EX110.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX110.mdlx
+- name: obj/B_EX110_FRIEND.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX110_FRIEND.mdlx
+- name: obj/B_EX110_GM.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX110_GM.mdlx
+- name: obj/B_EX110_LV99.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX110_LV99.mdlx
+- name: obj/B_EX110_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX110_RTN.mdlx
+- name: obj/B_EX110_SKIRMISH.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX110_SKIRMISH.mdlx
+#Demyx
+- name: obj/B_EX120.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX120.mdlx
+- name: obj/B_EX120_GM.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX120_GM.mdlx
+- name: obj/B_EX120_HB.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX120_HB.mdlx
+- name: obj/B_EX120_HB_LV99.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX120_HB_LV99.mdlx
+#Xaldin
+- name: obj/B_EX130.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX130.mdlx
+- name: obj/B_EX130_GM.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX130_GM.mdlx
+- name: obj/B_EX130_LV99.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX130_LV99.mdlx
+#Xigbar
+- name: obj/B_EX140.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX140.mdlx
+- name: obj/B_EX140_GM.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX140_GM.mdlx
+- name: obj/B_EX140_LV99.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX140_LV99.mdlx
+#Luxord
+- name: obj/B_EX150.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX150.mdlx
+- name: obj/B_EX150_LV99.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX150_LV99.mdlx
+#Saix
+- name: obj/B_EX160.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX160.mdlx
+- name: obj/B_EX160_GM.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX160_GM.mdlx
+- name: obj/B_EX160_LV99.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX160_LV99.mdlx
+#Xemnas
+- name: obj/B_EX170.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX170.mdlx
+- name: obj/B_EX170_LV99.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX170_LV99.mdlx
+- name: obj/B_EX170_LAST.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX170_LAST.mdlx
+- name: obj/B_EX170_LAST_LV99.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX170_LAST_LV99.mdlx
+- name: obj/B_EX170_RTN.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX170_RTN.mdlx
