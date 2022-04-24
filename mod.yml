@@ -1,5 +1,5 @@
 title: Organization 100
-description: Replaces Xemnas, Xigbar, Xaldin, Saïx, Axel, Demyx, and Luxord
+description: Replaces Xemnas, Xigbar, Xaldin, Saïx, Axel, Demyx, Luxord, and Roxas
 assets:
 #Axel
 - name: obj/B_EX110.mdlx
@@ -112,3 +112,12 @@ assets:
   method: copy
   source:
   - name: obj/B_EX170_RTN.mdlx
+#Roxas
+- name: obj/B_EX390.mdlx
+  method: copy
+  source:
+  - name: obj/B_EX390.mdlx
+- name: obj/N_EX820_BTL.mdlx
+  method: copy
+  source:
+  - name: obj/N_EX820_BTL.mdlx
