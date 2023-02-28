@@ -3,121 +3,373 @@ description: Replaces Xemnas, Xigbar, Xaldin, Saïx, Axel, Demyx, Luxord, and Ro
 assets:
 #Axel
 - name: obj/B_EX110.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX110.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX110.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX110.tim
 - name: obj/B_EX110_FRIEND.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX110_FRIEND.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX110.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX110.tim
 - name: obj/B_EX110_GM.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX110_GM.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX110.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX110.tim
 - name: obj/B_EX110_LV99.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX110_LV99.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX110.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX110.tim
 - name: obj/B_EX110_RTN.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX110_RTN.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX110.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX110.tim
 - name: obj/B_EX110_SKIRMISH.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX110_SKIRMISH.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX110.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX110.tim
 #Demyx
 - name: obj/B_EX120.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX120.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX120.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX120.tim
 - name: obj/B_EX120_GM.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX120_GM.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX120.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX120.tim
 - name: obj/B_EX120_HB.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX120_HB.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX120.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX120.tim
 - name: obj/B_EX120_HB_LV99.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX120_HB_LV99.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX120.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX120.tim
 #Xaldin
 - name: obj/B_EX130.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX130.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX130.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX130.tim
 - name: obj/B_EX130_GM.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX130_GM.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX130.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX130.tim
 - name: obj/B_EX130_LV99.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX130_LV99.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX130.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX130.tim
 #Xigbar
 - name: obj/B_EX140.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX140.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX140.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX140.tim
 - name: obj/B_EX140_GM.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX140_GM.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX140.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX140_GM.tim
 - name: obj/B_EX140_LV99.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX140_LV99.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX140.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX140.tim
 #Luxord
 - name: obj/B_EX150.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX150.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX150.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX150.tim
 - name: obj/B_EX150_LV99.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX150_LV99.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX150.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX150.tim
 #Saix
 - name: obj/B_EX160.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX160.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX160.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX160.tim
 - name: obj/B_EX160_GM.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX160_GM.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX160.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX160.tim
 - name: obj/B_EX160_LV99.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX160_LV99.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX160.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX160.tim
 #Xemnas
 - name: obj/B_EX170.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX170.mdlx
-- name: obj/B_EX170_LV99.mdlx
-  method: copy
-  source:
-  - name: obj/B_EX170_LV99.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX170.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX170.tim
 - name: obj/B_EX170_LAST.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX170_LAST.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX170_LAST.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX170_LAST.tim
 - name: obj/B_EX170_LAST_LV99.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX170_LAST_LV99.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX170_LAST.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX170_LAST.tim
+- name: obj/B_EX170_LV99.mdlx
+  method: binarc
+  source:
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX170.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX170.tim
 - name: obj/B_EX170_RTN.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX170_RTN.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX170.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX170.tim
 #Roxas
 - name: obj/B_EX390.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/B_EX390.mdlx
+  - name: b_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX390.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX390.tim
 - name: obj/N_EX820_BTL.mdlx
-  method: copy
+  method: binarc
   source:
-  - name: obj/N_EX820_BTL.mdlx
+  - name: n_ex
+    type: model
+    method: copy
+    source:
+    - name: obj/B_EX390.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj/B_EX390.tim
