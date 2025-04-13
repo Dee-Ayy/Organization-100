@@ -346,6 +346,21 @@ assets:
     method: copy
     source:
     - name: obj/B_EX170.tim
+#Final Xemnas Texture Replacement Because GoA re-adds the remastered texture for some reason#
+- name: remastered/obj/B_EX170_LAST.mdlx/-2.dds
+  multi:
+  - name: remastered/obj/B_EX170_LAST_LV99.mdlx/-2.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: obj/shirt.dds
+- name: remastered/obj/B_EX170_LAST.mdlx/-3.dds
+  multi:
+  - name: remastered/obj/B_EX170_LAST_LV99.mdlx/-3.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: obj/pooh.dds
 #Roxas
 - name: obj/B_EX390.mdlx
   method: binarc
