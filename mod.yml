@@ -361,6 +361,13 @@ assets:
   method: copy
   source:
   - name: obj/pooh.dds
+- name: remastered/obj/B_EX170_LAST.mdlx/-4.dds
+  multi:
+  - name: remastered/obj/B_EX170_LAST_LV99.mdlx/-4.dds
+  package: kh2_fifth
+  method: copy
+  source:
+  - name: obj/armspants.dds
 #Roxas
 - name: obj/B_EX390.mdlx
   method: binarc
